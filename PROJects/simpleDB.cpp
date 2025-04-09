@@ -2,7 +2,6 @@
 //written by: Aman Thakur <amanthakur2010.ak@gmail.com>
 #include<iostream>
 #include<cstring>
-#include<iomanip>
 using namespace std;
 int main()
 {
