@@ -1,3 +1,5 @@
+//simple calculator that performs addition,subtraction,multiplication,division
+//written by: Aman Thakur <amanthakur2010.ak@gmail.com>
 #include<iostream>
 using namespace std;
 int main()
